@@ -1,0 +1,9 @@
+#test h1 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(1, 1, 48);
+}
+#results {
+  font-size: 35px;
+  margin: 50px;
+}

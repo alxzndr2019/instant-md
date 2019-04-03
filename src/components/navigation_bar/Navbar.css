@@ -1,0 +1,29 @@
+#logo {
+  color: white;
+  display: inline-block;
+  letter-spacing: 5px;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  text-decoration: none;
+}
+nav {
+  padding: 25px;
+  background-color: rgb(1, 1, 48);
+  height: 50px;
+}
+nav ul {
+  list-style-type: none;
+  float: right;
+  padding: right 25px;
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a {
+  color: white;
+  padding: 0 30px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
