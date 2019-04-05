@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import "./Searchbar.css";
-import axios from "axios";
+// import axios from "axios";
 import Suggestions from "./Suggestions/Suggestions";
-import { Link, HashRouter } from "react-router-dom";
+// import { Link, HashRouter } from "react-router-dom";
 import Autosuggest from "react-autosuggest";
-const { API_KEY } = process.env;
+// const { API_KEY } = process.env;
 // const drugs = "http://localhost:8080/api/druginfos";
 const languages = [
   {
